@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "555106101749",
+    "firebase_url": "https://wewew-20323-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wewew-20323",
+    "storage_bucket": "wewew-20323.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555106101749:android:2dbd8e2f1b6d1a5328d8bc",
+        "android_client_info": {
+          "package_name": "com.example.uap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555106101749-mdad6hkv46s6s3mb216pfhqn9st2djss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChcXCtxcyBqpDLAEpPAYmibz3esJyYg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555106101749-mdad6hkv46s6s3mb216pfhqn9st2djss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555106101749:android:422a85bb0334bd3328d8bc",
+        "android_client_info": {
+          "package_name": "com.example.uap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555106101749-mdad6hkv46s6s3mb216pfhqn9st2djss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChcXCtxcyBqpDLAEpPAYmibz3esJyYg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555106101749-mdad6hkv46s6s3mb216pfhqn9st2djss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
