@@ -1,5 +1,7 @@
 NAMA   : LAODE M. RAYYIF RASYA T.
+
 NIM    : 235150700111032
+
 PRODI  : Teknologi Informasi
 
 1. Lakukan Slicing pada link figma yang sudah diberikan
